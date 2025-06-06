@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Master Degree in Data Science at Universidad de Chile. Working at Risy.ai as a developer.<br>💬 Ask me about Machine Learning, NLP, Software Development, Animal Computer Interaction or any related topic.
+🔭 I’m currently working on my Master Degree in Data Science at Universidad de Chile.<br>💬 Ask me about Machine Learning, NLP, Software Development, Animal Computer Interaction or any related topic.
 
 
 ## 🌐 Socials:
